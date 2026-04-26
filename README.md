@@ -27,8 +27,11 @@ To use this script, you will need to have **Python** installed on your computer.
 1. Double-click the `cleaner.py` file to run it.
 2. A terminal window will open asking for your folder path.
 3. Simply **drag and drop** the folder containing your PDFs directly into the window and press **Enter**.
-4. The script will scan the folder and generate clean copies of your PDFs inside that exact same folder. 
+4. The script will scan the folder and generate clean copies of your PDFs inside that exact same folder.
+   
+OR
 
+### **Downlaod ready to run .exe file which was compiled with `pyinstaller` from https://github.com/aeonian-harshul/Batch-remove-annotation/releases/tag/Annotation_remover**
 ## ⚠️ Notes
 * **Always make a backup:** You can try it with 1 PDF file first or keep a backup folder just in case the script breaks the PDFs.
 * Files that already start with `cleaned_` will be skipped to prevent infinite loops.
